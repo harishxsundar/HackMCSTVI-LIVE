@@ -3600,4 +3600,23 @@ footer .row {
 }
 
 
+@media only screen and (max-width: 1800px) {
+    #mlh-trust-badge {
+        right: 15%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    #mlh-trust-badge {
+        right: 25%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #mlh-trust-badge {
+        right: 43%;
+    }
+}
+
+
 /*# sourceMappingURL=main.css.map */
