@@ -55,9 +55,11 @@
 
             if ($WIN.scrollTop() > 150) {
                 menuTrigger.addClass('opaque');
+                document.getElementById("mlh-trust-badge").style.display = "none";
             }
             else {
                 menuTrigger.removeClass('opaque');
+                document.getElementById("mlh-trust-badge").style.display = "block";
             }
 
         });
@@ -454,6 +456,8 @@
             }
         });
     };
+
+    
 
 
    /* Initialize
