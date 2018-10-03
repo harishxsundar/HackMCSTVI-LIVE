@@ -74,11 +74,20 @@
             siteBody        = $('body'),
             mainContents    = $('section, footer');
 
+        var x = document.getElementById("mlh-trust-badge");
+
         // open-close menu by clicking on the menu icon
         menuTrigger.on('click', function(e){
             e.preventDefault();
             // menuTrigger.toggleClass('is-clicked');
             siteBody.toggleClass('menu-is-open');
+
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+
         });
 
         // close menu by clicking the close button
