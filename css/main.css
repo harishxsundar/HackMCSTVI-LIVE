@@ -2776,7 +2776,6 @@ html.no-csstransitions .home-content__main {
     display: block;
     height: 1px;
     width: 550px;
-    background-color: rgba(0, 0, 0, 0.1);
     text-align: center;
     position: absolute;
     top: 0;
@@ -2794,7 +2793,7 @@ html.no-csstransitions .home-content__main {
     font-family: "lora-regular", serif;
     font-size: 3rem;
     line-height: 1.8;
-    color: #555555;
+    color: white;
     margin-bottom: 6rem;
 }
 
