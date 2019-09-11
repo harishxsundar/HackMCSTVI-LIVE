@@ -1246,7 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #702b8e;
+    color: #48968b;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1471,7 +1471,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## main navigation 
  * ------------------------------------------------------------------- */
 .header-nav {
-    background: #0C0C0C;
+    background: #2c695a;
     color: rgba(255, 255, 255, 0.25);
     font-family: "montserrat-light", sans-serif;
     font-size: 1.3rem;
@@ -1513,7 +1513,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #702b8e;
+    color: white;
 }
 
 .header-nav p {
@@ -1651,7 +1651,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #702b8e;
+    color: #2c695a;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1687,7 +1687,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     top: 50%;
     right: auto;
     bottom: auto;
-    background-color: white;
+    background-color: #2c695a;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1859,8 +1859,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #702b8e;
-    border-right: 2px solid #702b8e;
+    border-bottom: 2px solid #48968b;
+    border-right: 2px solid #48968b;
     content: '';
     display: block;
     height: 8px;
@@ -1884,7 +1884,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #702b8e;
+    background-color: #48968b;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -1944,7 +1944,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #702b8e;
+    color: #48968b;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2200,7 +2200,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #702b8e;
+    background-color: #48968b;
     color: #010507;
     position: relative;
 }
@@ -2405,7 +2405,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #702b8e;
+    color: #48968b;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2973,7 +2973,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #702b8e;
+    background: #48968b;
 }
 
 .s-contact .form-field label::after {
@@ -2984,7 +2984,7 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #702b8e;
+    border-right: 5px solid #48968b;
 }
 
 .contact__line {
